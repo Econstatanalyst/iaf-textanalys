@@ -5,7 +5,7 @@ Detta projekt analyserar hur IAF:s (Inspektionen för arbetslöshetsförsäkring
 granskningsfokus förändrats över tid genom analys av 223 publicerade 
 granskningsrapporter mellan 2015 och 2026.
 
-## Forskningsfråga
+## Fråga som besvaras i rapporten
 Hur har de teman och nyckelord som dominerar IAF:s granskningsrapporter 
 förändrats över tid?
 
@@ -24,12 +24,9 @@ och sanktioner mot felaktiga utbetalningar och bidragsbrott, ett mönster som
 ett explicit regeringsuppdrag från 2021.
 
 ## Filer
-- `Analys i R.R` – komplett R-skript för all analys, inklusive nedladdning av rapporter
-- `ordfrekvens_per_ar.png` – vanligaste ord per år
-- `nyckelord_trend.png` – nyckelordsutveckling över tid
-- `tfidf_per_ar.png` – TF-IDF analys
-- `lda_unicitet.png` – LDA unicitetsanalys
-- `lda_temafordelning.png` – temafördelning över tid
+- `iaf_rapporter` - samtliga rapporter som laddades ned med hjälp av R skript.
+- `Analys i R.R` – komplett R-skript för all analys, inklusive nedladdning av rapporter.
+- `Rapport.pdf` – rapport i text.
 
 ## Rapport
 En fullständig rapport med analys och slutsatser finns tillgänglig i repositoryt.
